@@ -1,4 +1,4 @@
-## Gym Fitness Website
+# Gym Fitness Website
 
 Fitness website to be linked with a fitness app. Started as a school project.
 
@@ -8,7 +8,7 @@ Fitness website to be linked with a fitness app. Started as a school project.
 * CSS3
 * JavaScript
 
-### Silent Features :
+## `Silent Features`:
 
 * Responsive Design.
 * Portfolio Template.
@@ -19,8 +19,6 @@ Fitness website to be linked with a fitness app. Started as a school project.
 [`Click the Demo Button  and View Live Project`](https://mian-ali.github.io/GymWebsite/)
 
 
-### Project Live Url:
+## `Project Live Url`:
 
 (https://mian-ali.github.io/GymWebsite/)
-
-### WebApp ScreenShoot
